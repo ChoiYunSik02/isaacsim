@@ -261,3 +261,11 @@ NVIDIA App 또는 GeForce Experience가 설치되어 있으면 드라이버를 �
 
 > 이 문서가 도움이 되셨다면 ⭐ Star를 눌러주세요!  
 > 추가적인 문제나 다른 GPU 환경에서의 경험은 Issue 또는 PR로 공유해 주시면 감사합니다. 🙏
+
+<br>
+
+---
+
+## 📂 Projects
+
+- [`wheelchair-cliff-detection/`](./wheelchair-cliff-detection) — VL53L8CX ToF 센서 기반 휠체어 낙상(절벽) 감지 시뮬레이션
